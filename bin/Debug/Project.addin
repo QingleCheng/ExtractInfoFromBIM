@@ -1,0 +1,10 @@
+<?xml version ="1.0" encoding ="utf-8" standalone ="no"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Assembly>D:\Download\temp\revit\Project\bin\Debug\test_hello.dll</Assembly>
+    <AddInId>9af7f46a-ea52-4aa3-b8c3-9fd484c2af12</AddInId>
+    <FullClassName>test_hello.Class1</FullClassName>
+    <Text>Hello Revit</Text>
+    <VendorId>NAME</VendorId>
+  </AddIn>
+</RevitAddIns>
