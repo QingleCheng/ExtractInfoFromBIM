@@ -5,7 +5,7 @@ The program demonstrated here is described in the following document.
 
 Qingle Cheng, Linlin Xie, Zhencong Wang, Aiqun Li, Zhengwang Shen, Xinyu Wang, (2023) " BIM-based method for post-earthquake medical functionality assessment of hospital departments considering functional coupling," Journal of Building Engineering. (under review).
 
-GMs folder contains the 11 selected ground motions for time history analysis of the building in this paper.
+GMs folder contains the 11 selected ground motions for time history analysis of the building in this paper. Table A1 contains the information for the selected eight natural ground motion records.
 
 
 
